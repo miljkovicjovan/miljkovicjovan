@@ -1,4 +1,4 @@
-<h1 align="center">Hi there my name is Jovan👋</h1>
+<h1 align="center" style="color: blue;">Hi there my name is Jovan👋</h1>
 
 <p align="center">🔭 I’m currently working on [VirtualFruit](https://virtualfruit.netlify.app)</p>
 <p align="center">🌱 I’m currently learning Database Systems</p>
