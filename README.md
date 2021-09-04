@@ -9,3 +9,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miljkovicjovan&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=tokyonight" />
 </p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljkovicjovan" />
