@@ -15,5 +15,3 @@
 <p align="center">
   <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=miljkovicjovan&theme=github-light" />
 </p>
-
-
