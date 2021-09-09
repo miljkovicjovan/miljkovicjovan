@@ -11,3 +11,9 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=vue" />
 </p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=miljkovicjovan&theme=minimal" />
+</p>
+
+
