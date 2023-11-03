@@ -1,5 +1,5 @@
 
-# <div align="center">Hi, I'm jovan! 👋</div>
+# <div align="center">Hi, I'm Jovan! 👋</div>
 <p align="center">⚡ <a href="https://www.linkedin.com/in/miljkovicj/">Contact me</a> 👨‍💻</p>
 
 
