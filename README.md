@@ -3,9 +3,9 @@
 <p align="center">⚡ <a href="https://www.linkedin.com/in/miljkovicj/">Contact me</a> 👨‍💻</p>
 
 <div align="center">
-  <img width"48%" src="https://github-readme-stats.vercel.app/api?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&count_private=true" /><br/>
-  <img width"48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=prussian&hide_border=true" /><br/>
-  <img width"48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
+  <img width"480px" src="https://github-readme-stats.vercel.app/api?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&count_private=true" /><br/>
+  <img width"480px" src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=prussian&hide_border=true" /><br/>
+  <img width"480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <p align="center">
