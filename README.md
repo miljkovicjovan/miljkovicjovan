@@ -1,13 +1,12 @@
 
-# <div align="center">Hi, I'm Jovan! 👋</div>
-<p align="center">⚡ <a href="https://www.linkedin.com/in/miljkovicj/">Contact me</a> 👨‍💻</p>
+# Hey, my name is Jovan! 👋
+I mostly work with the React ecosystem, and I love working on projects that excite me.
 
-<div align="center">
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=prussian&hide_border=true" /><br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&count_private=true" /><br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
-</div>
+Also, let's connect on twitter! Feel free to dm me for discussion!
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=miljkovicjovan&&style=flat-square" align="center" />
-</p>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/miljkoviccjovan.svg?style=social&label=Follow%20%40miljkoviccjovan)](https://twitter.com/miljkoviccjovan)
+![Profile views](https://komarev.com/ghpvc/?username=miljkovicjovan&color=gray)
+
+<img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=miljkovicjovan&theme=prussian&hide_border=true" /><br/>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&count_private=true" /><br/>
+<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljkovicjovan&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
